@@ -22,7 +22,7 @@ repository               : "xuannguyen04/xuannguyen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/portrait.jpg"
   name             : "Xuan Nguyen"
   pronouns         : "She/her"  
   bio              : "Data Analyst | Business Analytics | UTD Grad Student"
